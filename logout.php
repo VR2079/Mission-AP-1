@@ -1,0 +1,6 @@
+<?php
+session_start();
+session_unset();   // supprime toutes les variables de session
+session_destroy(); // détruit la session
+header("Location: Accueil.php"); // redirige vers l'accueil
+exit();

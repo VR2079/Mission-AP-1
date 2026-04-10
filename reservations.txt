@@ -1,0 +1,35 @@
+Nom: tom
+Email: tom@pere.fr
+Durée: 4 h
+Plateforme: Nintendo Switch 2
+---
+Nom: tom
+Email: tom@pere.fr
+Plateforme: Nintendo Switch 2
+Jeu: Hyrule Warriors : Age Of Imprisonment
+Durée: 2 heures
+---
+Nom: tom
+Email: tom@pere.fr
+Plateforme: Nintendo Switch 2
+Jeu: Super Smash Bros Ultimate
+Durée: 2 heures
+---
+Nom: tom
+Email: tom@pere.fr
+Plateforme: PlayStation 5
+Jeu: Gran Turismo 7
+Durée: 2 heures
+---
+Nom: ts
+Email: test@essai.com
+Plateforme: PC
+Jeu: Rocket League
+Durée: 8 heures
+---
+Nom: 1
+Email: user@cgca.com
+Plateforme: Nintendo Switch 2
+Jeu: Hyrule Warriors : Age Of Imprisonment
+Durée: 1 heures
+---
